@@ -19,5 +19,9 @@ en C via git/github.
 #Formation
 -Master Modélisation/Simulation
 -Thèse génie des procédés
--Développent web et mobile (simplon, en cours)
+-Développement web et mobile (simplon, en cours)
+
+
+
+
 
