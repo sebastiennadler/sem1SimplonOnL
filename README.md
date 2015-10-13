@@ -1,6 +1,6 @@
 # Sébastien Nadler
 
-    Je m'appelle **Sébastien Nadler **. J'ai un cursus très scientifique puisque 
+Je m'appelle **Sébastien Nadler **. J'ai un cursus très scientifique puisque 
 j'ai une thèse en génie des procédés et un master Modélisation/Simulation 
 (programmation +physique + méthodes numériques) . Mais,  j'aimerais développer 
 mes compétences en  programmation pour me construire un profil plus technique.
